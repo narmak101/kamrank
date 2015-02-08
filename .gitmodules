@@ -1,0 +1,54 @@
+[submodule "themes/hyde"]
+	path = hyde
+	url = https://github.com/spf13/hyde.git
+[submodule "themes/herring-cove"]
+	path = herring-cove
+	url = https://github.com/spf13/herring-cove.git
+[submodule "themes/lanyon"]
+	path = lanyon
+	url = https://github.com/tummychow/lanyon-hugo.git
+[submodule "themes/hugo-incorporated"]
+	path = hugo-incorporated
+	url = https://github.com/nilproductions/hugo-incorporated.git
+[submodule "themes/simple-a"]
+	path = simple-a
+	url = https://github.com/AlexFinn/simple-a.git
+[submodule "themes/journal"]
+	path = journal
+	url = https://github.com/mpas/hugo-journal.git
+[submodule "themes/liquorice"]
+	path = liquorice
+	url = https://github.com/eliasson/liquorice.git
+[submodule "themes/hyde-x"]
+	path = hyde-x
+	url = https://github.com/zyro/hyde-x.git
+[submodule "themes/purehugo"]
+	path = purehugo
+	url = https://github.com/dplesca/purehugo.git
+[submodule "themes/tinyce"]
+	path = tinyce
+	url = https://github.com/roperzh/tinyce-hugo-theme.git
+[submodule "themes/html5"]
+	path = html5
+	url = https://github.com/simonmika/hugo-theme-html5.git
+[submodule "themes/persona"]
+	path = persona
+	url = https://github.com/aries1980/hugo-theme-persona.git
+[submodule "themes/redlounge"]
+	path = redlounge
+	url = https://github.com/tmaiaroto/hugo-redlounge.git
+[submodule "themes/hugo-uno"]
+	path = hugo-uno
+	url = https://github.com/SenjinDarashiva/hugo-uno.git
+[submodule "themes/hugoscroll"]
+	path = hugoscroll
+	url = https://github.com/SenjinDarashiva/hugoscroll.git
+[submodule "themes/stou-dk-theme"]
+	path = stou-dk-theme
+	url = https://github.com/stou/stou-dk-theme.git
+[submodule "themes/landing-page-hugo"]
+	path = landing-page-hugo
+	url = https://github.com/crakjie/landing-page-hugo.git
+[submodule "themes/hugo-base-theme"]
+	path = hugo-base-theme
+	url = https://github.com/crakjie/hugo-base-theme.git
